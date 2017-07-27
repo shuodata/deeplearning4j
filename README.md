@@ -91,3 +91,4 @@ Note, be sure to install the ND4J modules you need first, especially the backend
    the repository to configure the Eclipse formatter, or by [using the INtellij
    plugin](https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse).
 6. Send a pull request and bug us on Gitter until it gets merged and published. :)
+ 
