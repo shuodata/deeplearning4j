@@ -48,4 +48,4 @@ After the above setup, all TypeScript files will be compiled to a single javascr
 It is recommended to open this via IntelliJ (right click -> Open In Browser)
 
 **Note 2:** The *src/main/typescript/typedefs/* folder contains type definitions for some javascript libraries, from [https://github.com/DefinitelyTyped/DefinitelyTyped](DefinitelyTyped).
-These allow us to use javascript libraries in typescript, whilst having type information.
+These allow us to use javascript libraries in typescript, whilst having type information.   

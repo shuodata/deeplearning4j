@@ -86,3 +86,4 @@ appropriate entry for the current language. See the train module UI pages for mo
 
 Note also that it is necessary to provide an I18N instance to the templates. See the TrainModule routing section
 for an example on how to do this.
+   

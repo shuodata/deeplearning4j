@@ -31,3 +31,4 @@ Jeffrey Tang
 @bennythedataguy - Bi-directional LSTMs
 
 Justin Long @crockpotveggies
+   

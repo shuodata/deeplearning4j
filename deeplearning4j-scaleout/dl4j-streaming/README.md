@@ -16,3 +16,4 @@ you can plug in to a camel route and convert things to records.
 This happens via  a [Camel processor](http://camel.apache.org/processor.html) 
 
 From there you would then turn the records in to NDArrays for dl4j-spark to consume.
+   
